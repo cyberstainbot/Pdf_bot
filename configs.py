@@ -37,15 +37,15 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`                                                                         
 
-Update Channel: @ilovepdf_bot 🤩
+Update Channel: @cyberstainbot 🤩
 
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Follow 🏆](https://telegram.me/cyberstainbot)
+[Report Issue 📋](https://t.me/cyberstainbot)
 """
     
     
     feedbackMsg = """
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cyberstainbot)
 """
     
     
@@ -88,7 +88,7 @@ key 🔐: `{}`"""
 
 ERROR: `{}`
 
-For bot updates join @ilovepdf_bot 💎
+For bot updates join @cyberstainbot 💎
 """
     
     
@@ -105,21 +105,21 @@ reply:
 /encrypt `password` - to set password
 /text - to extract text from pdf
 
-Join Update Channel @ilovepdf_bot, More features soon 🔥
+Join Update Channel @cyberstainbot, More features soon 🔥
 """
     
     
     aboutDev = """About Dev:
 
-OwNeD By: @nabilanavab 😜
-Update Channel: @ilovepdf_bot 😇                                                                
+OwNeD By: @cyberstainbot 😜
+Update Channel: @cyberstainbot 😇                                                                
 
 Lang Used: Python🐍
-[Source Code](https://github.com/nabilanavab/ilovepdf)
+[Report Issue](https://telegram.me/cyberstainbot)
 
-Join @ilovepdf_bot, if you ❤ this
+Join @cyberstainbot, if you ❤ this
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cyberstainbot)
 """
     
     
@@ -139,9 +139,9 @@ Join @ilovepdf_bot, if you ❤ this
     - `/generate fileName` - to change pdf name to fileName🤞
     - `/generate name` - to get pdf with your telegram name
 
-For bot updates join @ilovepdf_bot 💎
+For bot updates join @cyberstainbot 💎
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cyberstainbot)
 """
     
     
@@ -157,9 +157,9 @@ For bot updates join @ilovepdf_bot 💎
 
 1st bot on telegram wich send images without converting entire pdf to images
 
-For bot updates join @ilovepdf_bot 💎
+For bot updates join @cyberstainbot 💎
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cyberstainbot)
 """
     
     
@@ -173,9 +173,9 @@ For bot updates join @ilovepdf_bot 💎
 ◍ added 30+ new file formats that can be converted to pdf..
 API LIMITS..😕
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @cyberstainbot 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cyberstainbot)
 """
     
     
@@ -185,11 +185,11 @@ For bot updates join @ilovepdf_bot 💎
 
 ◍ Please don't try to spread 18+ contents 😒
 
-IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @nabilanavab
+IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @cyberstainbot
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @cyberstainbot 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cyberstainbot)
 """
     
     
@@ -200,9 +200,9 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-For bot updates join @ilovepdf_bot 💎                                                           
+For bot updates join @cyberstainbot 💎                                                           
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Write a feedback 📋](https://t.me/cyberstainbot)
 """
 
 # please don't try to steel this code,

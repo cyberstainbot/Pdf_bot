@@ -7,7 +7,7 @@
  |_| |___,\___/\_/\___| |_|  |___/|_|    
                          [Nabil A Navab] 
                          Email: nabilanavab@gmail.com
-                         Telegram: @nabilanavab
+                         Telegram: @cyberstainbot
 ```
 
 <div align="center">
@@ -99,7 +99,7 @@ the extracted PDF-images..</em>
 
 <h3 align="center">Source code:</h3>
 
-     Developed by: @nabilanavab, Kerala
+     Developed by: @cyberstainbot, Kerala
 
 <h3 align="center">Privacy & Security:</h3>
 
@@ -131,7 +131,7 @@ the extracted PDF-images..</em>
     ╰────Railways──〄
 
 ### deploy on heroku:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabilanavab/ilovepdf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/flaskvol/Pdf_bot)
 
 ## Project setUp:
 

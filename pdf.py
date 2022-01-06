@@ -3,7 +3,7 @@
 
 # ABOUT DEV. & SOURCE CODE
 #    nabilanavab, india, kerala
-#    Telegram: @nabilanavab
+#    Telegram: @cyberstainbot
 #    Email: nabilanavab@gmail.com
 #    copyright ©️ 2021 nabilanavab
 #    Released Under Apache License
@@ -1183,8 +1183,8 @@ async def answer(client, callbackQuery):
                     [
                         [
                             InlineKeyboardButton(
-                                "Source Codes",
-                                url = "https://github.com/nabilanavab/ilovepdf"
+                                "Follow",
+                                url = "https://t.me/cyberstainbot"
                             ),
                             InlineKeyboardButton(
                                 "🔙 Home 🏡",
