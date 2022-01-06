@@ -182,7 +182,7 @@ async def start(bot, message):
                 [
                     [
                         InlineKeyboardButton(
-                            "Source Code ❤️",
+                            "Know More ❤️",
                             callback_data = "strtDevEdt"
                         ),
                         InlineKeyboardButton(
@@ -1346,7 +1346,7 @@ async def answer(client, callbackQuery):
                     [
                         [
                             InlineKeyboardButton(
-                                "Source Code ♥️",
+                                "Know More ♥️",
                                 callback_data = "strtDevEdt"
                             ),
                             InlineKeyboardButton(
@@ -1974,7 +1974,7 @@ async def answer(client, callbackQuery):
                     [
                         [
                             InlineKeyboardButton(
-                                "Source Code ❤️",
+                                "Know More ❤️",
                                 callback_data = "strtDevEdt"
                             ),
                             InlineKeyboardButton(
