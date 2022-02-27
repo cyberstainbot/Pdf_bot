@@ -6,10 +6,10 @@
 		"ilovepdf", "nabilabavab", "python",
 		"ilovepdf_bot", "complete pdf bot"
 	],
-	"website": "https://github.com/nabilanavab/ilovepdf",
-	"repository": "https://github.com/nabilanavab/ilovepdf",
+	"website": "https://github.com/cyberstainbot/Pdf_bot",
+	"repository": "https://github.com/cyberstainbot/Pdf_bot",
 	"logo": "https://te.legra.ph/file/b659b2e306bb766a44537.jpg",
-	"success_url": "https://github.com/nabilanavab/ilovepdf",
+	"success_url": "https://github.com/cyberstainbot/Pdf_bot",
 	"stack": "heroku-20",
 	"env": {
 		"API_ID": {
