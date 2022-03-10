@@ -5,9 +5,7 @@
  | | | |   _____ _____  | _ \|   \|  __| 
  | | | |__/ _ \ V / -_) |  _/| |) |  _|  
  |_| |___,\___/\_/\___| |_|  |___/|_|    
-                         [Nabil A Navab] 
-                         Email: nabilanavab@gmail.com
-                         Telegram: @cyberstainbot
+                         
 ```
 
 <div align="center">
@@ -131,7 +129,7 @@ the extracted PDF-images..</em>
     ╰────Railways──〄
 
 ### deploy on heroku:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/flaskvol/Pdf_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://jugnucodebotonyoutubes.on.drv.tw/www.jugnucode.com/)
 
 ## Project setUp:
 
